@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/progrium/darwinkit/cocoa"
-	"github.com/progrium/darwinkit/objc"
+	"github.com/progrium/macdriver/cocoa"
+	"github.com/progrium/macdriver/objc"
 )
 
 func createSeparator() cocoa.NSMenuItem {

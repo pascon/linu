@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/progrium/darwinkit/cocoa"
-	"github.com/progrium/darwinkit/objc"
+	"github.com/progrium/macdriver/cocoa"
+	"github.com/progrium/macdriver/objc"
 )
 
 var appCtx AppCtx

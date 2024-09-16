@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/progrium/darwinkit/cocoa"
+	"github.com/progrium/macdriver/cocoa"
 	"runtime"
 )
 
